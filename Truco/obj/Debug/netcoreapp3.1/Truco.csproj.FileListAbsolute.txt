@@ -1,0 +1,53 @@
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.exe
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.deps.json
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.json
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.dev.json
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.dll
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csprojAssemblyReference.cache
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfoInputs.cache
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfo.cs
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csproj.CoreCompileInputs.cache
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.dll
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\leops\Desktop\FTT\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.genruntimeconfig.cache
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.exe
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.deps.json
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.json
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.dev.json
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.dll
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csprojAssemblyReference.cache
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfoInputs.cache
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfo.cs
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csproj.CoreCompileInputs.cache
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.dll
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\leops\Desktop\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.genruntimeconfig.cache
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.exe
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.deps.json
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.json
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.dev.json
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.dll
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csprojAssemblyReference.cache
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfoInputs.cache
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfo.cs
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csproj.CoreCompileInputs.cache
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.dll
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\leops\OneDrive\Área de Trabalho\FTT\EC1\Algoritmo\Truco 10.0\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.exe
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.deps.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.runtimeconfig.dev.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\bin\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Trabalhos bem feitos\Truco\Truco\obj\Debug\netcoreapp3.1\Truco.genruntimeconfig.cache
